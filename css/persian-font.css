@@ -1,0 +1,15 @@
+/*
+Theme Name: 1pezeshk
+Theme URI: http://wedesign.ir/
+Description: theme for 1pezeshk blog 
+Graphic Design, XHTML, CSS, jQuery by Amir-abbas Abdolali
+Converting static template to Wordpress 3.0 theme by Amin Tabrizi
+*/
+
+@font-face {
+    font-family: myFont;
+    src: url('../font/Shabnam.eot') format('eot'), /* IE6–8 */
+    url('../font/shabnam.woff') format('woff'), /* FF3.6+, IE9, Chrome6+, Saf5.1+*/
+    url('../font/Shabnam.ttf') format('truetype');
+    /* Saf3—5, Chrome4+, FF3.5, Opera 10+ */
+}
